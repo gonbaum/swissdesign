@@ -1,0 +1,182 @@
+body {
+
+    font-family: 'Helvetica', sans-serif;
+  }
+
+.container {
+    width: 100%;
+    padding: 2rem;
+    display:flex;
+    justify-content: center;
+  }
+
+  h1 {
+    margin: 0;
+    font-size: 6rem;
+  }
+
+  
+  .h2 {
+    font-weight: 700;
+  }
+
+  #acaralate {
+    font-size: 6rem;
+    transform: translateY(-0.5rem);
+    font-weight: 700;
+  }
+
+  #trademark {
+    font-size: xx-large;
+    font-weight: 800;
+    transform: translateY(-1.75rem);
+    margin-left: -1rem;
+  }
+
+  #twoe {
+    align-self: flex-start;
+    margin: 0;
+    margin-left: 4rem;
+    padding: 0;
+    font-size: 5rem;
+    transform: translateY(0.75rem);
+  }
+
+  #miticide {
+    font-weight: 900;
+    font-size: 1.5rem;
+  }
+
+  #onegallon {
+    font-weight: 900;
+    font-size: 1.2rem;
+    margin-bottom: 0.25rem;
+  }
+  #caution {
+    font-weight: 900;
+    font-size: 1.2rem;
+    margin-bottom: 0.25rem;
+  }
+  
+  hr {
+    margin: 0px;
+  }
+  
+  .wrapper {
+    display: grid;
+    grid-template-columns: repeat(8, minmax(150px, 1fr));
+    grid-row-gap: 0.7rem;
+    grid-column-gap: 0.7rem;
+    grid-auto-rows: 6rem;
+  }
+  
+  .content {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    
+    margin-left: 9.5rem;
+  }
+  
+  .content>div {
+    margin-right: 0;
+    padding-left: 0.5rem;
+    font-size: 0.75rem;
+    font-weight: 800;
+    letter-spacing: -0.01rem;
+    line-height: 1rem
+  }
+
+  .wrapper>div {
+    padding: 1em;
+  }
+
+  /*    
+  * Row 1 
+  ------------*/
+  
+  .row1 {
+    grid-column: 2 / span 4;
+    display:flex;
+  }
+
+  /*    
+  * Row 2 
+  ------------*/
+
+  .row2 {
+    background-color: rgb(1, 141, 203);
+    grid-column: span 8;
+    grid-row: span 6;
+  }
+
+    
+  .content>div>div>h1 {
+
+  }
+
+  #row2--col1--block2 {
+    margin-top: 13.75rem;
+  }
+  
+  #row2--col2--block1 {
+    margin-top: 19rem;
+  }
+
+  #row2--col3--block2 {
+    margin-top: 18rem;
+  }
+
+  .subtitle {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-left: 160px;
+    margin-top: 2rem;
+  }
+  
+
+  /*    
+  * Row 3
+  ------------*/
+  
+  
+  .row3--col1 {
+    margin-right: 0.7rem;
+    grid-column: span 2;
+    grid-row: span 4;
+    background-color: rgb(189, 187, 188);
+    padding: 0 !important;
+    overflow: hidden;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+  .row3--col2 {
+    grid-column: span 2;
+    grid-row: span 4;
+    background-color: rgb(208, 209, 214);
+    padding: 0 !important;
+    overflow: hidden;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .row3--col3 {
+    grid-column: span 4;
+    grid-row: span 4;
+    background-color: rgb(252, 226, 5);
+    padding: 0 !important;
+    overflow: hidden;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
