@@ -5,6 +5,7 @@ I decided to replicate a design i found in google when looking for swiss style d
 Swiss design is known for their use of grids, among other characteristics. With CSS Grid, you can have lots of fun trying to imitate some designs.
 
 This is the design I tried to replicate:
+![swiss-design-example](https://64.media.tumblr.com/tumblr_liz8hx7KZk1qeq0cao1_r1_1280.jpg)
 https://64.media.tumblr.com/tumblr_liz8hx7KZk1qeq0cao1_r1_1280.jpg
 
 And this is my result so far:
