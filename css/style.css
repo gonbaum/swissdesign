@@ -324,11 +324,30 @@ body {
     }
 
     .container {
-        padding-left:20rem;
+        padding-left:10rem;
+    }
+
+    
+
+    
+  }
+
+  @media only screen and (max-width: 472px) {
+
+    .container {
+        padding-left:13rem;
     }
   }
 
- 
+  
+  @media only screen and (max-width: 415px) {
+
+    .container {
+        padding-left:16rem;
+    }
+  }
+
+
 
 
 
