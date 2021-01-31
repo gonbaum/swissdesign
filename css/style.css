@@ -301,7 +301,7 @@ body {
         grid-template-columns: repeat(5, minmax(150px, 1fr));
     }
     .container {
-        padding-left:10rem;
+        padding-left:20rem;
     }
     .row3--col1 {
         margin-right: 0;
@@ -318,7 +318,13 @@ body {
     }
   }
   
-  @media only screen and (max-width: 520px) {
+  @media only screen and (max-width: 500) {
+    .container {
+      width: 100vw;
+    }
+  }
+
+  @media only screen and (max-width: 490px) {
     .wrapper {
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
