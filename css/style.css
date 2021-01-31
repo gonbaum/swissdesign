@@ -301,7 +301,7 @@ body {
         grid-template-columns: repeat(5, minmax(150px, 1fr));
     }
     .container {
-        padding-left:20rem;
+        padding-left:10rem;
     }
     .row3--col1 {
         margin-right: 0;
