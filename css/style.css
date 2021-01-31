@@ -331,15 +331,7 @@ body {
   @media only screen and (max-width: 472px) {
 
     .container {
-        padding-left:13rem;
-    }
-  }
-
-  
-  @media only screen and (max-width: 415px) {
-
-    .container {
-        padding-left:16rem;
+        padding-left:20rem;
     }
   }
 
