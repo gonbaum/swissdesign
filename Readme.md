@@ -8,5 +8,7 @@ This is the design I tried to replicate:
 ![swiss-design-example](https://64.media.tumblr.com/tumblr_liz8hx7KZk1qeq0cao1_r1_1280.jpg)
 https://64.media.tumblr.com/tumblr_liz8hx7KZk1qeq0cao1_r1_1280.jpg
 
+![Responsive behaviour](img/gif1.gif)
+
 And this is my result so far:
 https://gonbaum.github.io/swissdesign/
